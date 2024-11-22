@@ -20,3 +20,6 @@ venv
 Testing/.logs/*
 
 temp/*
+
+# Ignore test presentation images
+Presentation_Data
