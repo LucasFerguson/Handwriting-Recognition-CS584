@@ -23,3 +23,8 @@ temp/*
 
 # Ignore test presentation images
 Presentation_Data
+
+# Ignore local files
+fucking_work_please.ipynb
+show_me_files.py
+Testing/.gitattributes
